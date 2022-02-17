@@ -1,0 +1,1 @@
+# gyaru-moji-generator
