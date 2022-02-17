@@ -1,0 +1,29 @@
+{
+  "name": "gyaru-moji-generator",
+  "version": "1.0.0",
+  "description": "This is a generator that can convert hiragana to gyaru-moji.",
+  "main": "index.js",
+  "bin": {
+    "gyaru-moji-generator": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niikz/gyaru-moji-generator.git"
+  },
+  "keywords": [
+    "japanese",
+    "gyaru-moji"
+  ],
+  "author": "niikz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niikz/gyaru-moji-generator/issues"
+  },
+  "homepage": "https://github.com/niikz/gyaru-moji-generator#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
