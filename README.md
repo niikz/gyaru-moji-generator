@@ -2,6 +2,8 @@
 
 This is a generator that can convert hiragana to gyaru-moji.
 
+![demo](https://user-images.githubusercontent.com/60736158/154491426-84ce572d-2833-4969-beac-5c148af9102e.gif)
+
 ## Install
 
 ```shell
